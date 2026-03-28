@@ -1,0 +1,2 @@
+item replace entity @s armor.head with green_banner[banner_patterns=[{pattern:skull,color:white},{pattern:gradient,color:black},{pattern:border,color:black}],item_name=[{"translate":"block.leaderbanner.banner","fallback":"Leader Banner"}],rarity=uncommon,tooltip_display={hidden_components:[banner_patterns]}]
+data modify entity @s drop_chances.head set value 0f

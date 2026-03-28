@@ -1,0 +1,1 @@
+execute as @e[type=#minecraft:zombies, tag=!lb.check] run function leader_banner:process
