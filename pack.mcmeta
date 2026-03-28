@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "description": {
+            "text": "Give ",
+            "extra": [
+                {
+                    "text": "leader",
+                    "color": "yellow"
+                },
+                {
+                    "text": "zombies a banner!\n"
+                },
+                {
+                    "text": "by Lukiiy!",
+                    "color": "aqua"
+                }
+            ]
+        },
+        "pack_format": 101,
+        "min_format": [ 94, 1 ],
+        "max_format": [ 256, 0 ]
+    }
+}
